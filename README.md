@@ -8,4 +8,8 @@ Website for Nikki's Heating & Cooling: heating and cooling installation and serv
 
 ## Before launch
 - Connect the "Request service" form to an email or form service (it currently shows a confirmation only)
-- Replace the Instagram tiles with real post photos
+
+## Updating the Instagram posts
+Edit `instagram-posts.txt` and put one Instagram post or reel link per line. The "Our work" section shows them in that order. Commit the change and Vercel redeploys the site automatically.
+
+The posts load from Instagram, so they show on the hosted site (Vercel). Opening `index.html` straight from your computer shows the placeholder tiles instead.

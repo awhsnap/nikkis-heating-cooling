@@ -1,0 +1,12 @@
+# Instagram posts shown in the "Our work" section of the website.
+# Paste one Instagram post or reel link per line, in the order you want them.
+# Get a link in Instagram: tap "Share" on the post, then "Copy link".
+# Lines starting with # are ignored. Tracking codes after "?" are removed automatically.
+
+https://www.instagram.com/reel/DYPemCfznuJ/
+https://www.instagram.com/reel/Dc7r_suTS-l/
+https://www.instagram.com/reel/DbKMoRjTC79/
+https://www.instagram.com/reel/Danl1mLTsGv/
+https://www.instagram.com/reel/DaMFKhDT18b/
+https://www.instagram.com/reel/DSI-2tgiaSI/
+https://www.instagram.com/p/DBuuG8zpaO4/
